@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_FCBeoN3LEe-mevkRKGymQQ" name="qqqqq" id="_orGFUN3KEe-mevkRKGymQQ" label="qqqqq" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://localhost:1433;DatabaseName=ecommerce;" dbVersionString="MSSQL_PROP" Port="1433" Username="ismaill" Password="enc:system.encryption.key.v1:12IsnvJCDvy8a2ECsWB/3Q89gzzQROBXvHV3q/d04wE=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="ecommerce" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+  <taggedValue xmi:id="_FCCFsN3LEe-mevkRKGymQQ" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_FCicAN3LEe-mevkRKGymQQ" tag="package filter" value=""/>
+  <taggedValue xmi:id="_FCjDEN3LEe-mevkRKGymQQ" tag="Status" value=""/>
+  <taggedValue xmi:id="_FCjDEd3LEe-mevkRKGymQQ" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_FCjDEt3LEe-mevkRKGymQQ" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_FCjDE93LEe-mevkRKGymQQ" tag="Description" value=""/>
+  <taggedValue xmi:id="_FCjDFN3LEe-mevkRKGymQQ" tag="Author" value=""/>
+  <taggedValue xmi:id="_FCjDFd3LEe-mevkRKGymQQ" tag="otherParameter"/>
+  <parameters xmi:id="_FCCFsd3LEe-mevkRKGymQQ" key="CONN_PARA_KEY_USERNAME" value="ismaill"/>
+  <parameters xmi:id="_Mgs2sN3LEe-hUJwlQjjklA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+</TalendMetadata:DatabaseConnection>

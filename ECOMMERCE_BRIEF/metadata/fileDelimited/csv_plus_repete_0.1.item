@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_ZymDAN2pEe-mevkRKGymQQ" name="csv_plus_repete" dataPackage="_ZymDAd2pEe-mevkRKGymQQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/YouCode/Desktop/optimize e-Commerce data/data/helper/produitrep.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ZymDAd2pEe-mevkRKGymQQ" name="default" dataManager="_ZymDAN2pEe-mevkRKGymQQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ZymDAt2pEe-mevkRKGymQQ" id="_R3AsgN2pEe-mevkRKGymQQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZymDA92pEe-mevkRKGymQQ" label="ProductName" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZymDBN2pEe-mevkRKGymQQ" label="ProductCategory" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZymDBd2pEe-mevkRKGymQQ" label="ProductSubCategory" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZymDBt2pEe-mevkRKGymQQ" label="id" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZymDB92pEe-mevkRKGymQQ" label="CountProduct" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
