@@ -1,0 +1,8 @@
+SELECT TOP (1000) [ProductName]
+      ,[ProductCategory]
+      ,[ProductSubCategory]
+      ,[ProductPrice]
+      ,[id]
+      ,[previous_ProductPrice]
+      ,[key]
+  FROM [ecommerv2].[dbo].[Dimproduct]

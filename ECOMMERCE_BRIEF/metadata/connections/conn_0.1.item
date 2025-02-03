@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
-  <TalendMetadata:DatabaseConnection xmi:id="_m__jgN3MEe-hUJwlQjjklA" name="conn" id="_haM_sN3MEe-hUJwlQjjklA" label="conn" dataPackage="_eo4ioN5QEe-h08B4dPWN6A" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/ecommerv2;" dbVersionString="JTDS" Port="1433" Username="ismaill" Password="enc:system.encryption.key.v1:PZPryndoQI2CLy9PJZbUaLFLoS06OukS/B73l7HlFYE=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="ecommerv2" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+  <TalendMetadata:DatabaseConnection xmi:id="_m__jgN3MEe-hUJwlQjjklA" name="conn" id="_haM_sN3MEe-hUJwlQjjklA" label="conn" dataPackage="_jgYHoN-xEe-LANEfhzJiQQ" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/ecommerv2;" dbVersionString="JTDS" Port="1433" Username="ismaill" Password="enc:system.encryption.key.v1:SZheUww4akODd1mp3MMLWDchd0Am91iur09uHO6OxOs=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="ecommerv2" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
     <taggedValue xmi:id="_m__jgd3MEe-hUJwlQjjklA" tag="Is Conn Need Reload" value="true"/>
     <taggedValue xmi:id="_nAR3YN3MEe-hUJwlQjjklA" tag="package filter" value=""/>
     <taggedValue xmi:id="_nATFgN3MEe-hUJwlQjjklA" tag="Status" value=""/>
@@ -15,7 +15,7 @@
     <parameters xmi:id="_m__jgt3MEe-hUJwlQjjklA" key="CONN_PARA_KEY_USERNAME" value="ismaill"/>
     <parameters xmi:id="_hrpDcN4YEe-rmL9OEt2SQA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
   </TalendMetadata:DatabaseConnection>
-  <orgomg.cwm.resource.relational:Catalog xmi:id="_eo4ioN5QEe-h08B4dPWN6A" name="ecommerv2" dataManager="_m__jgN3MEe-hUJwlQjjklA">
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eo4iod5QEe-h08B4dPWN6A" name="dbo"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_jgYHoN-xEe-LANEfhzJiQQ" name="ecommerv2" dataManager="_m__jgN3MEe-hUJwlQjjklA">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_jgYHod-xEe-LANEfhzJiQQ" name="dbo"/>
   </orgomg.cwm.resource.relational:Catalog>
 </xmi:XMI>
