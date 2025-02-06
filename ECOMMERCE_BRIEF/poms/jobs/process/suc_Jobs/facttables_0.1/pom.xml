@@ -146,6 +146,11 @@
       <artifactId>routines</artifactId>
       <version>8.0.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.example.ecommerce_brief.job</groupId>
+      <artifactId>scd</artifactId>
+      <version>0.1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>${talend.job.finalName}</finalName>
