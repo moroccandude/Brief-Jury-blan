@@ -1,15 +1,22 @@
 [ {
   "baseItem" : {
+    "id" : "_I8_F4N2rEe-mevkRKGymQQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_haM_sN3MEe-hUJwlQjjklA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_Tts1EN_dEe-6LqfYBw6lkw",
     "version" : "0.1",
     "type" : "job"
   },
   "relatedItems" : [ {
     "id" : "ECOMMERCE_BRIEF:_I8_F4N2rEe-mevkRKGymQQ",
-    "version" : "Latest",
-    "type" : "job"
-  }, {
-    "id" : "_ix1QgN1JEe-nKYAnX6o4HA",
     "version" : "Latest",
     "type" : "job"
   }, {

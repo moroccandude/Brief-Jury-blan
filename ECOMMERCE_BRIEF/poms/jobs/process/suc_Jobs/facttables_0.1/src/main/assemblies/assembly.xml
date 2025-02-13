@@ -273,7 +273,6 @@
         <dependencySet>
             <outputDirectory>${talend.job.name}</outputDirectory>
             <includes>
-                <include>org.example.ecommerce_brief.job:scd:jar:0.1.0</include>
                 <include>org.example.ecommerce_brief.job:facttables:jar:0.1.0</include>
             </includes>
             <outputFileNameMapping>${artifact.build.finalName}.${artifact.extension}</outputFileNameMapping>
