@@ -11,7 +11,7 @@ In an increasingly competitive e-commerce sector, efficient data utilization is 
 - **Orchestration**: Talend JobConductor  
 
 ### PROJECT ARCHESTRACTION
-![archestration](https://github.com/moroccandude/Brief-Jury-blan/tree/master/assets/archestration.png)
+![archestration](https://github.com/moroccandude/Brief-Jury-blan/blob/master/assets/archestration.png)
 
 
 ## 📞 Contact  
